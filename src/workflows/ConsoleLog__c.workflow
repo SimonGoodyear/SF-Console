@@ -3,7 +3,7 @@
     <outboundMessages>
         <fullName>ConsoleUpdate</fullName>
         <apiVersion>22.0</apiVersion>
-        <endpointUrl>https://sfutils.com/notificationservice.asmx</endpointUrl>
+        <endpointUrl>http://sfconsole.herokuapp.com/notificationservice.asmx</endpointUrl>
         <fields>Id</fields>
         <fields>Message__c</fields>
         <fields>Updated__c</fields>
